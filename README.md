@@ -10,9 +10,9 @@ The user will be rewarded and ranks will be calculated on the basics of their pe
 
 # Modules Used
 
-tkinter
-random
-PIL
-time
-pygame
-winsound
+tkinter \n
+random \n
+PIL  \n
+time \n
+pygame  \n
+winsound  \n
