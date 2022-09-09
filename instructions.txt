@@ -1,0 +1,11 @@
+How to Play:
+1. When you begin a puzzle, the game presents you with two
+   pictures. These pictures can be of nearly any person,
+   place or thing.
+2. Each level will display 4 options out of which only one 
+   will be CORRECT . 
+3. If you select the right option your score will be increased
+   and next logo will be displayed. 
+4. If you select the wrong option you would lose. You have
+   only one life. 
+          So play well !!
